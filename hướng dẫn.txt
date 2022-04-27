@@ -1,0 +1,26 @@
+di chuyển bằng w, a, d sẽ nhanh hơn so với các phím lên, trái, phải
+s hoặc phím xuống hoặc F9  để đổi skill
+skill 1 k tốn mana
+skill 2 tốn mana
+F1 là king 
+F2 là mage
+F3 kiểu sát thủ
+phím G để nhảy múa
+phím K để mở khóa hòm
+F8 để vẽ lưới vuống ( dùng trọng khi mình viết thuật toán)
+F7 để vẽ 6 chấm điểm ( dùng khi mình xử lý va chạm các kiểu)
+F10 là để giả dạng bị thương ( dùng khi map có các chướng ngại vật)
+F11 chuyển sang dạng đẩy hộp
+F12 để dạng đi vào phía trong ( climp)
+các file new_...py là tạo mới các loại có đuôi 
+map là các khối map
+item là xu, đồng xanh, key, hòm, cà cột cờ
+br là các cảnh vật hiện phía sau nhân vật
+br2 là các cảnh vật hiện phía trước nhân vật
+các file load_....py là chương trình để vẽ các loại map, item, br, br2
+ở các file load thì click và các icon phía dưới xong click tại các ô lưới phía trên là nó hiện
+nhấn phím f hoặc ô cuối cùng để chuyển sang dạng xóa
+giữ phía e để vẽ liên tục theo con chuột
+di chuyển khung ảnh bằng các phím w, a, s, d là bộ 4 nút điều hướng
+thank các bạn tải về và đọc ạ
+còn lại mọi người đọc code ạ
